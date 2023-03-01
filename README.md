@@ -15,7 +15,7 @@ To use the solutions, simply navigate to the corresponding solution file, open t
 # Language Used 
 <p>Python</p>
 
-# Star ⭐ the Repository 
+#  ⭐ Star the Repository 
 <p>If you find this repository helpful, please consider starring it. It helps me know that people are finding value in the solutions I've provided and motivates me to continue adding more solutions in the future.
 
 Thank you for visiting my LeetCode Solutions repository, and happy coding!<p/>
